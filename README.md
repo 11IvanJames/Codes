@@ -1,2 +1,2 @@
-# DSA
-Data Structures and Algorithms Code
+# Codes
+DSA / OOP / IMD Codes
